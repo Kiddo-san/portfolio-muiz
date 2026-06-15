@@ -3,3 +3,4 @@
 3. HTML
 4. Penyuntingan video
 5. Git dan GitHub
+6. Pyhton
